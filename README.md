@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-### Hi there 👋 
   
  <p align="center"> 
      <b>Welcome to my page!</b><br><br> 
