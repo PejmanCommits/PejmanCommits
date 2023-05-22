@@ -16,7 +16,7 @@
  ### Languages 
  [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/PejmanCommits)
  [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/PejmanCommits)
- [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/PejmanCommits)  
+ [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/PejmanCommits)
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/PejmanCommits)  
  [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/PejmanCommits) 
  [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/PejmanCommits) 
