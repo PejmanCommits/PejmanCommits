@@ -3,7 +3,7 @@
      <b>Welcome to my page!</b><br><br> 
      <i> 
          My name is Pejman.<br> 
-         I'm Currently learning to program.<br> 
+         I'm Currently learning Programming.<br> 
          Here i'll share my experience in programming.<br> 
      </i><br> 
      <a href="https://www.linkedin.com/in/PejmanRezaei"> 
